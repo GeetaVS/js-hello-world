@@ -8,6 +8,15 @@ console.log("Hello");
 
 /*  
 Next, PLAY! 
+*/
+console.log("hello Again");
+/*
+
+*/
+
+console.log("5");
+/*
+
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
    1. Change the message that is printed.
